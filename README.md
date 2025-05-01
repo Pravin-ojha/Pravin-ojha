@@ -114,8 +114,9 @@ You can click the Preview link to take a look at your changes.
 📊 **Profile Views**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Pravin-ojhalabel=Profile%20views&color=0e75b6&style=flat" alt="Pravin-ojha" />
+  <img src="https://komarev.com/ghpvc/?username=Pravin-ojha&label=Profile%20views&color=0e75b6&style=flat" alt="Pravin-ojha" />
 </p>
+
 
 
 <p align="center">💻 Code. 🎬 Create. 💡 Learn. ☕ Chill. 🔁 Repeat.
