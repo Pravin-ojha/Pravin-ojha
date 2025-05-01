@@ -82,6 +82,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin-ojha&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pravin-ojha&theme=tokyonight"/>
+</p>
+
 ---
 
 ## 🎓 Education
