@@ -119,5 +119,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center">💻 Code. 🎬 Create. 💡 Learn. ☕ Chill. 🔁 Repeat.
-</p>
+<h3 align="center">💻 Code. 🎬 Create. 💡 Learn. ☕ Chill. 🔁 Repeat.
+</h3>
