@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💼 Looking For:
 - 💬 Collaborative projects in full stack or C++
-- 🎓 Internship opportunities (2025 goal)
+- 🎓 Internship opportunities
 - 🎯 Open-source contribution opportunities
 
 ---
