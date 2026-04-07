@@ -89,7 +89,7 @@ You can click the Preview link to take a look at your changes.
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin-ojha&layout=donut&theme=tokyonight" />
 </p>
 
 ---
