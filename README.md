@@ -87,9 +87,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## Languages
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pravin-ojha&theme=github)
-
+<p align="center">
+  ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pravin-ojha&theme=tokyonight)
+</p>
 ---
 
 ## 🎓 Education
