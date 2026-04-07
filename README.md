@@ -86,6 +86,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://streak-stats.demolab.com?user=Pravin-ojha&theme=tokyonight"/>
 </p>
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🎓 Education
